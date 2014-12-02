@@ -1,0 +1,1 @@
+sqlite3 jvexample.db < schema.sqlite.sql
